@@ -18,7 +18,7 @@ A very simple code to make your own 24/7 AI Chat Bot that talks like humans and 
 # Installation of Bot Code
 <br>• Go to repl.it, make an account and click +Create Repl and again click Import from GitHub present at top right corner.</br>
 <br>• Copy & paste my repo link and hit enter. It will load my repo in there.
-<br>• Then it will ask for Language and Star Button Config! Just select Node.js and type node index.js where it asks for start button configuration!</br>
+<br>• Then it will ask for Language and Start Button Config! Just select Node.js and type node index.js where it asks for start button configuration!</br>
 <br>• Now head back to Discord Developers Application and copy the Bot Token using the following picture</br>
 ![alt text](https://cdn.discordapp.com/attachments/900630710086418462/900766009428955176/ffff.PNG)
 <br>• Go to secret's tab in repl.it repo and add a new secret. Put the Variable as TOKEN and put your bot token as the key!</br>
